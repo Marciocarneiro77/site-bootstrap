@@ -1,6 +1,6 @@
-.titulo{
-    text-align:center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-style: italic;
-    
+
+i{
+    display: block;
+    width:48px ;
+    text-align: center;
 }
